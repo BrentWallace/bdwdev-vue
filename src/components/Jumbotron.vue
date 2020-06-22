@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid bg-info">
+  <div class="container-fluid bg-info vh-100">
     <div class="row">
       <div class="col">
         <div class="jumbotron bg-info text-white text-center">

@@ -4,11 +4,11 @@
       <div class="row">
         <div class="col-lg">
           <a name="projects" class="anchor">
-            <h1
-              class="text-center text-light display-4 pb-4 mb-4"
+            <h2
+              class="text-center text-light display-3 pb-4 mb-4"
               data-aos="fade"
               data-aos-easing="ease-in"
-            >Projects</h1>
+            >Projects</h2>
           </a>
         </div>
       </div>
