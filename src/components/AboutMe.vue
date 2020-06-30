@@ -6,7 +6,10 @@
           <a class="anchor text-dark" name="about">
             <h1 class="display-3 text-center m-4" data-aos="fade" data-aos-easing="ease-in">About Me</h1>
           </a>
-          <p data-aos="fade" data-aos-easing="ease-in">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p
+            data-aos="fade"
+            data-aos-easing="ease-in"
+          >I put my first website together way back in the early days of angelfire and geocities pages, and I've been at it ever since. The tools and technologies have changed since then, but the satisfaction of building something that works and putting it out into the world is something I still feel every time I publish a new project.</p>
         </div>
       </div>
       <h2 class="text-center" data-aos="fade" data-aos-easing="ease-in">Tech Toolbox</h2>

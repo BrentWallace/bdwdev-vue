@@ -7,9 +7,9 @@
           class="display-1 my-4 py-4"
           data-aos="fade"
           data-aos-easing="ease-in"
-        >&lt;Hello, world!&gt;</h1>
+        >Brent Wallace</h1>
         <p class="display-4 my-4 py-4" data-aos="fade" data-aos-easing="ease-in">
-          I am a full-stack developer
+          a full-stack developer
           <br />based in Raleigh, NC.
         </p>
         <hr class="my-4 border-white" data-aos="fade" data-aos-easing="ease-in" />

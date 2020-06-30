@@ -8,7 +8,7 @@
               class="text-center text-light display-3 pb-4 mb-4"
               data-aos="fade"
               data-aos-easing="ease-in"
-            >Projects</h2>
+            >Selected Projects</h2>
           </a>
         </div>
       </div>
