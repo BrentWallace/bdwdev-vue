@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <app-navigation></app-navigation>
-    <app-jumbotron>
+    <app-jumbotron :background="'DSC07868-HDR.jpg'">
       <div class="align-self-center">
         <h1
           class="display-1 my-4 py-4"
@@ -9,15 +9,8 @@
           data-aos-easing="ease-in"
         >Brent Wallace</h1>
         <p class="display-4 my-4 py-4" data-aos="fade" data-aos-easing="ease-in">
-          a full-stack developer
-          <br />based in Raleigh, NC.
+          a full-stack developer based in Raleigh, NC.
         </p>
-        <hr class="my-4 border-white" data-aos="fade" data-aos-easing="ease-in" />
-        <h2
-          class="my-4 py-4"
-          data-aos="fade"
-          data-aos-easing="ease-in"
-        >Let me help you build your next project!</h2>
       </div>
     </app-jumbotron>
     <app-about-me></app-about-me>

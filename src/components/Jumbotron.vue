@@ -1,8 +1,8 @@
 <template>
-  <div class="container-fluid bg-info vh-100">
+  <div class="container-fluid vh-100 d-flex justify-content-center align-items-center" :style="style">
     <div class="row">
       <div class="col">
-        <div class="jumbotron bg-info text-white text-center">
+        <div class="jumbotron text-center text-white">
           <slot></slot>
         </div>
       </div>
@@ -12,10 +12,19 @@
 
 <script>
 export default {
-    
+    props: {
+      background: String,
+    },
+    computed: {
+      style: function() {
+        return `background:url("${this.background}");background-size:cover;background-position:center center;`
+      }
+    }
 }
 </script>
 
 <style scoped>
-
+  .jumbotron {
+    background-color:transparent;
+  }
 </style>
