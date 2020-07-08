@@ -40,9 +40,9 @@
               <ul class="list-group list-group-flush">
                 <li class="list-group-item text-center">Javascript/Typescript</li>
                 <li class="list-group-item text-center">Python</li>
+                <li class="list-group-item text-center">PHP</li>
                 <li class="list-group-item text-center">HTML</li>
                 <li class="list-group-item text-center">CSS</li>
-                <li class="list-group-item text-center">PHP</li>
               </ul>
             </div>
           </div>
@@ -53,6 +53,9 @@
                 <li class="list-group-item text-center">DynamoDB</li>
                 <li class="list-group-item text-center">MongoDB</li>
                 <li class="list-group-item text-center">MySQL</li>
+                <li class="list-group-item text-center">PostgreSQL</li>
+                <li class="list-group-item text-center">SQLAlchemy</li>
+                <li class="list-group-item text-center">MongooseJS</li>
               </ul>
             </div>
           </div>

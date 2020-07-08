@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+import { store } from './store/store' 
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import AOS from 'aos'
@@ -12,4 +13,5 @@ new Vue({
     AOS.init();
   },
   render: h => h(App),
+  store,
 }).$mount('#app')
