@@ -27,6 +27,7 @@
             <a class="nav-link" href="#projects" @click="makeActive">Projects</a>
           </li>
         </ul>
+        <a href="https://github.com/BrentWallace" target="_blank"><img class="img-fluid" style="max-height:64px;" src="iconfinder_github_273178.png"/></a>
       </div>
     </div>
   </nav>
